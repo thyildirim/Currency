@@ -17,6 +17,6 @@ rub = rates['RUB']
 print(f"1 Turk lirasi ")
 print((f"{usd:} USD") )
 
-# print(f"{eur:} EUR")
+print(f"{eur:} EUR")
 print(f"{gel:} GEL")
 print(f"{rub:} RUB")
